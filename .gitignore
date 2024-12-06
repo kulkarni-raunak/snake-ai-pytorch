@@ -1,0 +1,6 @@
+# venv name
+snake_rl/
+
+# misc
+__pycache__/
+model/
